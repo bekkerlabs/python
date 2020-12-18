@@ -22,3 +22,7 @@ Open your terminal:
 Locate to your lab, right-click on the markdown file and select "Open Preview", to view the lab:
 
 ![image](https://user-images.githubusercontent.com/72632800/102594897-81a81500-411f-11eb-8f1d-b700f1841f76.png)
+
+## Start the lab
+
+- [Python](basic/01-python-interpreter.md)
